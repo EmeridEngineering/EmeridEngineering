@@ -17,8 +17,9 @@ my knowledge and creativity. I am passionate about Deep learning, Python develop
 - [**number-classifier-fully-connected-tensorflow**](https://github.com/EmeridEngineering/DL_Coursera_C2_CW3_Fully_Connected_Network_tf) - Sign Language Numbers recognition using Fully Connected Network with TensorFlow
 
 ### Computer Vision
-- [**image-classifier-cnn**](https://github.com/username/image-classifier-cnn) - Convolutional neural network for image classification using PyTorch (In progress)
-- [**object-detection-yolo**](https://github.com/username/object-detection-yolo) - Object detection implementation with YOLOv5 (TBD)
+- [**CNN-basic-numpy**](https://github.com/EmeridEngineering/DL_Coursera_C3_CW1_Basic_CNN_using_Numpy) - Basic Convolutional Neural Network using Numpy (In progress)
+- [**image-classifier-cnn**](https://github.com/username/image-classifier-cnn) - Convolutional neural network for image classification using PyTorch (TBD)
+- [**object-detection-yolo**](https://github.com/username/object-detection-yolo) - Object detection implementation with YOLOv5 (TBD) 
 - [**semantic-segmentation-u-net**](https://github.com/username/object-detection-yolo) - Semantic Segmentation with U-Net (TBD)
 - [**face-recognition-system**](https://github.com/username/face-recognition-system) - Face recognition using transfer learning (TBD)
 
