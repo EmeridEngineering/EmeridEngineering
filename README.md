@@ -14,10 +14,10 @@ my knowledge and creativity. I am passionate about Deep learning, Python develop
 - [**parameters-initialization-case-study**](https://github.com/EmeridEngineering/DL_Coursera_C2_CW1_Parameters_Initialization_case_study) - Parameters Initialization case study using examples from scikit-learn with pure NumPy
 - [**regularization-case-study**](https://github.com/EmeridEngineering/DL_Coursera_C2_CW1_Regularization) - Regularization Algorithms case study (L2 and Drop-out) using examples from scikit-learn with pure NumPy
 - [**optimization-case-study**](https://github.com/EmeridEngineering/DL_Coursera_C2_CW2_Mini_batches_and_optimization) - Optimization Algorithms case study (Momentum, RMS_Prop, ADAM) using examples from scikit-learn with pure NumPy
-- [**number-classifier-fully-connected-tensorflow**](https://github.com/EmeridEngineering/DL_Coursera_C2_CW3_Fully_Connected_Network_tf) - Sign Language Numbers recognition using Fully Connected Network with TensorFlow (In progress)
+- [**number-classifier-fully-connected-tensorflow**](https://github.com/EmeridEngineering/DL_Coursera_C2_CW3_Fully_Connected_Network_tf) - Sign Language Numbers recognition using Fully Connected Network with TensorFlow
 
 ### Computer Vision
-- [**image-classifier-cnn**](https://github.com/username/image-classifier-cnn) - Convolutional neural network for image classification using PyTorch (TBD)
+- [**image-classifier-cnn**](https://github.com/username/image-classifier-cnn) - Convolutional neural network for image classification using PyTorch (In progress)
 - [**object-detection-yolo**](https://github.com/username/object-detection-yolo) - Object detection implementation with YOLOv5 (TBD)
 - [**semantic-segmentation-u-net**](https://github.com/username/object-detection-yolo) - Semantic Segmentation with U-Net (TBD)
 - [**face-recognition-system**](https://github.com/username/face-recognition-system) - Face recognition using transfer learning (TBD)
